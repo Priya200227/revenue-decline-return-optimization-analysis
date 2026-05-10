@@ -85,7 +85,7 @@ Features:
 - Monthly return trends
 - Revenue by category
 
-![Dashboard Page 1](05_dashboard_images/page_1.png)
+![Dashboard Page 1](05_dashboard_images/Page_1.png)
 
 ---
 
@@ -97,7 +97,7 @@ Features:
 - Category return-risk analysis
 - Top revenue products
 
-![Dashboard Page 2](05_dashboard_images/page_2.png)
+![Dashboard Page 2](05_dashboard_images/Page_2.png)
 
 ---
 
@@ -109,7 +109,7 @@ Features:
 - Churn risk analysis
 - Revenue concentration insights
 
-![Dashboard Page 3](05_dashboard_images/page_3.png)
+![Dashboard Page 3](05_dashboard_images/Page_3.png)
 
 ---
 
