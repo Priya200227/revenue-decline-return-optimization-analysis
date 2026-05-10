@@ -1,0 +1,97 @@
+============================================================
+Revenue Decline & Return Optimization Analysis Report
+============================================================
+
+
+EXECUTIVE SUMMARY
+------------------------------------------------------------
+
+Latest Monthly Revenue:
+345,022.21
+
+Previous Monthly Revenue:
+1,370,578.93
+
+Month-over-Month Growth:
+-74.83%
+
+
+Revenue declined compared to the previous month, indicating potential slowdown in business performance.
+
+
+RETURN RISK ANALYSIS
+------------------------------------------------------------
+
+Highest Return Risk Category:
+Footwear
+
+Return Loss Percentage:
+29.26%
+
+
+Footwear shows elevated return-related margin risk and requires immediate operational review.
+
+
+CUSTOMER RETENTION ANALYSIS
+------------------------------------------------------------
+
+Total Active Customers:
+3016
+
+Repeat Customers:
+2456
+
+Repeat Rate:
+81.43%
+
+
+Repeat customer contribution remains healthy, supporting recurring revenue stability.
+
+
+CUSTOMER CHURN & RFM ANALYSIS
+------------------------------------------------------------
+
+Largest Customer Segment:
+Potential Loyalists
+
+Customers in Segment:
+1119
+
+
+The RFM model identified customer lifecycle patterns
+based on recency, frequency, and monetary contribution.
+
+
+REVENUE CONCENTRATION ANALYSIS
+------------------------------------------------------------
+
+Top 20% Customer Revenue Contribution:
+53.95%
+
+
+Revenue concentration risk remains relatively balanced.
+
+
+BUSINESS RECOMMENDATIONS
+------------------------------------------------------------
+
+1. Investigate high-return products within the
+   Footwear category.
+
+2. Strengthen quality checks and fulfillment processes
+   to reduce return-related losses.
+
+3. Improve retention strategies targeting repeat
+   and high-value customers.
+
+4. Monitor revenue concentration risk to reduce
+   dependency on a limited customer base.
+
+5. Continuously monitor MoM revenue trends for
+   early detection of business slowdown.
+
+
+============================================================
+End of Report
+============================================================
+
