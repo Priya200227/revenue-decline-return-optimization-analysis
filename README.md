@@ -29,6 +29,14 @@ This project analyzes:
 - GitHub
 
 ---
+# Dataset
+
+**Type:** Synthetic e-commerce dataset  
+**Purpose:** Generated to simulate realistic e-commerce transaction behavior for analytical demonstration  
+**Records:** ~20,000 transactions across product categories, customer segments, and time periods  
+**Note:** Synthetic data was used intentionally to enable controlled analysis of revenue decline patterns, return behavior, and customer segmentation without real business data constraints.
+
+---
 
 # Key Analyses Performed
 
